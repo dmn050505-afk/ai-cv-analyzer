@@ -191,22 +191,6 @@ mvn spring-boot:run
 
 ---
 
-## Screenshots
-
-### Architecture
-
-> *(Coming soon)*
-
-### Swagger
-
-> *(Coming soon)*
-
-### Matching Example
-
-> *(Coming soon)*
-
----
-
 ## Author
 
 **Sérgio Nunes**
