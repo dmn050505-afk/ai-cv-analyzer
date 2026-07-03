@@ -25,7 +25,7 @@ The project is being developed incrementally, following software engineering bes
 
 ### AI Resume Analysis
 
-<img width="684" height="814" alt="image" src="https://github.com/user-attachments/assets/e05baab4-5210-4276-b4f1-a6f65e2d9785" />
+<img width="684" height="700" alt="image" src="https://github.com/user-attachments/assets/e05baab4-5210-4276-b4f1-a6f65e2d9785" />
 
 The extracted CV text is sent to Google Gemini, which identifies:
 
