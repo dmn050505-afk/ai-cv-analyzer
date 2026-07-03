@@ -115,7 +115,7 @@ util/
 
 The project follows a layered architecture:
 
-<img width="405" height="431" alt="image" src="https://github.com/user-attachments/assets/47855410-4d13-4433-abe3-62ab44bfed96" />
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/47855410-4d13-4433-abe3-62ab44bfed96" />
 
 External AI communication is isolated inside the `integration/gemini` package.
 
