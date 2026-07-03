@@ -193,6 +193,6 @@ mvn spring-boot:run
 
 ## Author
 
-**Sérgio Nunes**
+**Daniel Nunes**
 
 This project is part of my backend portfolio and is being developed as a way to deepen my knowledge of enterprise Java development, software architecture and AI integration.
