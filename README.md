@@ -129,7 +129,7 @@ External AI communication is isolated inside the `integration/gemini` package.
 
 ## API Documentation
 
-<img width="1204" height="1027" alt="image" src="https://github.com/user-attachments/assets/31342704-6197-414b-afd7-2431edf905e4" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/31342704-6197-414b-afd7-2431edf905e4" />
 
 Swagger UI is available at:
 
