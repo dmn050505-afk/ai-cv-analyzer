@@ -123,7 +123,7 @@ External AI communication is isolated inside the `integration/gemini` package.
 
 ## Security Flow
 
-<img width="1030" height="607" alt="image" src="https://github.com/user-attachments/assets/17856fcc-f746-401a-b71c-83efd4a1c7df" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/17856fcc-f746-401a-b71c-83efd4a1c7df" />
 
 ---
 
